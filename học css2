@@ -1,5 +1,5 @@
 li:first-child{
-    color: redd;
+    color: red;
 }
 li:last-child{
     color: blue;
