@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shopping</title>
+</head>
+
+<body>
+    <link rel="stylesheet" href="style.css">
+    <h1 style="color: pink; font-size: 60px; text-align: center;">-List đi siêu thị</h1>
+    <ul>
+        <li>Đồ dùng cá nhân
+
+            <ol>
+                <li>Kem đánh răng</li>
+                <li>Khăn mặt</li>
+                <li>Bàn chải đánh răng</li>
+            </ol>
+        </li>
+        <li>Thực phẩm
+            <ol>
+                <li>Thịt bò</li>
+                <li>Trứng</li>
+                <li>Sữa</li>
+            </ol>
+        </li>
+        <li>Đồ ăn vặt
+            <ol>
+                <li>Kẹo</li>
+                <li>Bánh</li>
+                <li>Cafe</li>
+            </ol>
+        </li>
+    </ul>
+</body>
+
+</html>
